@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "FocusFlow is an AI-powered productivity assistant designed to help users plan their day, organize tasks, summarize notes, draft professional emails, generate personalized study and career roadmaps, and stay focused through intelligent recommendations. It combines modern AI capabilities with a clean and intuitive interface to create a seamless productivity experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
